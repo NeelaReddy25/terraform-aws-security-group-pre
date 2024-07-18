@@ -16,7 +16,7 @@ variable "sg_tags" {
   type = map
 }
 variable "vpc_id" {
-  default = "sg-0cd5626364cf1e071"
+  
 }
 variable "sg_description" {
   #default = ""
